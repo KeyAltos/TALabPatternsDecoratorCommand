@@ -1,0 +1,5 @@
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.exe.config
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.exe
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.pdb
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommandDecorator.exe
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommandDecorator.pdb

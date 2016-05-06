@@ -1,0 +1,6 @@
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsDecorator\bin\Debug\HomeTaskPatternsDecorator.exe.config
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsDecorator\bin\Debug\HomeTaskPatternsDecorator.exe
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsDecorator\bin\Debug\HomeTaskPatternsDecorator.pdb
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsDecorator\obj\Debug\HomeTaskPatternsDecorator.exe
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsDecorator\obj\Debug\HomeTaskPatternsDecorator.pdb
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsDecorator\obj\Debug\HomeTaskPatternsDecorator.csprojResolveAssemblyReference.cache
