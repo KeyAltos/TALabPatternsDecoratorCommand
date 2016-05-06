@@ -28,6 +28,7 @@ namespace HomeTaskPatternsCommandDecorator
 
                 ParseConsoleLineToIntAndCheckDiapason(out typeOfCommand, 0, 3);
 
+                #region initialization type of command
                 switch (typeOfCommand)
                 {
                     case 1:
@@ -54,24 +55,26 @@ namespace HomeTaskPatternsCommandDecorator
                     default:
                         break;
                 }
+                #endregion
+
                 command.Execute();
                 Console.WriteLine();
                 Console.WriteLine("For quit press 'q', for repeat any other button");
             } while (Console.ReadLine()!="q");
         }
-        
 
+        #region help methods
         private static void ParseConsoleLineToIntAndCheckDiapason(out int value, int lowLimitValue, int maxLimitValue)
         {
-            while (!Int32.TryParse(Console.ReadLine(), out value) || value < lowLimitValue || value > maxLimitValue)
+            do
             {
                 Console.WriteLine("Please enter correct number from {0} to {1}", lowLimitValue, maxLimitValue);
-            }
+            } while (!Int32.TryParse(Console.ReadLine(), out value) || value < lowLimitValue || value > maxLimitValue);            
         }
 
         private static Point InitializatePointFromConsole()
         {
-            //code dublicate
+            
             int x, y;
             do
             {
@@ -86,6 +89,7 @@ namespace HomeTaskPatternsCommandDecorator
             return new Point(x, y);
 
         }
+        #endregion
     }
 
 

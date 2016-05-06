@@ -3,3 +3,9 @@ c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeT
 c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.pdb
 c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommandDecorator.exe
 c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\HomeTaskPatternsCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommandDecorator.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsDecoratorCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.exe.config
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsDecoratorCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommandDecorator.exe
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsDecoratorCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommandDecorator.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsDecoratorCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.exe
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsDecoratorCommand\HomeTaskPatternsCommandDecorator\bin\Debug\HomeTaskPatternsCommandDecorator.pdb
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabPatternsDecoratorCommand\HomeTaskPatternsCommandDecorator\obj\Debug\HomeTaskPatternsCommand.csprojResolveAssemblyReference.cache
